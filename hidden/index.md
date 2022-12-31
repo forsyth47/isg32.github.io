@@ -30,6 +30,8 @@ And Another thing, Don't share the link, it is supposed to be private you know.
 
 # Tape 1-A
 
-![![image](https://user-images.githubusercontent.com/95901240/210149829-05d059a4-0b23-40bc-9675-361c7e59d4a5.png)](https://drive.google.com/file/d/1TaIvMrtRmNRpvzrYXCOmxedbRWteP2a-/view?usp=sharing)
+![Tape 1-A](https://raw.githubusercontent.com/isg32/isg32.github.io/main/hidden/photo_2022-12-31_22-03-00.jp)
+
+![click to play ▶](https://drive.google.com/file/d/1TaIvMrtRmNRpvzrYXCOmxedbRWteP2a-/view?usp=sharing)
 
 ![NOTE20221008163139](https://user-images.githubusercontent.com/95901240/209466028-1ff6bd9f-12fa-496c-a0c8-337c97693ea4.png)
