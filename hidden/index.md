@@ -30,6 +30,8 @@ And Another thing, Don't share the link, it is supposed to be private you know.
 
 # Tape 1-A
 
+<img src="https://raw.githubusercontent.com/isg32/isg32.github.io/main/hidden/photo_2022-12-31_22-03-00.jpg"  width="50%" height="50%">
+
 ![Tape 1-A](https://raw.githubusercontent.com/isg32/isg32.github.io/main/hidden/photo_2022-12-31_22-03-00.jpg)
 
 [click to play ▶](https://drive.google.com/file/d/1TaIvMrtRmNRpvzrYXCOmxedbRWteP2a-/view?usp=sharing)
