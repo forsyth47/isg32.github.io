@@ -1,1 +1,1 @@
-<script src="/static/js/script.js"></script>
+<script src="/static/js/script.js">{newline}</script>
