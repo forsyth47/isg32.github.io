@@ -57,6 +57,8 @@ body{
     line-height: 1.4em;
     color: var(--fg-color);
 	background-color: var(black);
+	background-image: url(https://raw.githubusercontent.com/isg32/isg32.github.io/main/static/css/5692719-night-woods-hd-wallpapers.jpg);
+
 }
 
 blockquote{
@@ -107,7 +109,7 @@ body{
     line-height: 1.4em;
     color: var(--fg-color);
 	background-color: var(--bg-color);
-	background-image: url(/5692719-night-woods-hd-wallpapers.jpg);
+	background-image: url(https://raw.githubusercontent.com/isg32/isg32.github.io/main/static/css/5692719-night-woods-hd-wallpapers.jpg);
 }
 
 /** Elements **/
