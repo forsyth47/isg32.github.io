@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/95901240/211200960-2907a7f1-4e1a-4cce-bafc-5c22023f7f37.png)
 
+<hr>
+
 <b><h3> The following are my works:
 </b></h3>
 <hr>
