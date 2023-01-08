@@ -6,7 +6,6 @@
 
 ## The following are my works:
 
-<hr>
 
 <u> Movie Site Scraper project </u>
 
