@@ -4,8 +4,8 @@
 
 <hr>
 
-<b><h3> The following are my works:
-</b></h3>
+## The following are my works:
+
 <hr>
 
 <u> Movie Site Scraper project </u>
