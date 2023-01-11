@@ -17,6 +17,14 @@ URL : [ BASHBITCH ](/projects/bashbitch/)
 
 <hr>
 
+<u> My custom Android GSIs </u>
+
+URL : [TELEGRAM CHANNEL](https://t.me/semisapeolscgsi)
+
+    Do i really need to tell you what it is?
+
+<hr>
+
 <u>VIDSRC</u>
 
 URL : [Vidsrc - Python](https://github.com/isg32/vidsrc)
