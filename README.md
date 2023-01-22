@@ -15,3 +15,7 @@ none
 ## Update??
 
 reloaded the F#king UI.
+
+# Quote to remember
+
+Madarh*d ka dusra naam shreya he
