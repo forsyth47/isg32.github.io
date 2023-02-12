@@ -27,7 +27,7 @@ URL : [TELEGRAM CHANNEL](https://t.me/semisapeolscgsi)
 
 <u>Url Manuplator 450 Trending movies</u>
 
-URL: [ ONLINE-FILE ](urlmanuplation.html)
+URL: [ ONLINE-FILE ](/urlmanuplation.html)
 
     A minor project that I wasted my 2 hrs of exam prepration 
     should have studied instead. ;(
