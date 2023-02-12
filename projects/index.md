@@ -25,6 +25,15 @@ URL : [TELEGRAM CHANNEL](https://t.me/semisapeolscgsi)
 
 <hr>
 
+<u>Url Manuplator 450 Trending movies</u>
+
+URL: [ ONLINE-FILR ](urlmanuplation.html)
+
+    A minor project that I wasted my 2 hrs of exam prepration 
+    should have studied instead. ;(
+
+<hr>
+
 <u>VIDSRC</u>
 
 URL : [Vidsrc - Python](https://github.com/isg32/vidsrc)
