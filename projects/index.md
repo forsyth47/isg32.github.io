@@ -6,6 +6,15 @@
 
 ## The following are my works:
 
+<u> Movie streamer project [beta] </u>
+
+URL : [ StreamTEAX ](/projects/streamteax/)
+
+    This project is based on html & js, for the 
+    time being it only plays movies, soon will 
+    add feature for tv-series too.....
+
+<hr>
 
 <u> Movie Site Scraper project </u>
 
