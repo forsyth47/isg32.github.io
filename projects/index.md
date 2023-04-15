@@ -6,7 +6,7 @@
 
 ## The following are my works:
 
-<u> !Movie! streamer project [Final] </u>
+<u> Final Movie streamer project [Final] </u>
 
 URL : [ StreamTEAX-2 ](/projects/streamteax2/)
 
@@ -14,7 +14,10 @@ Base: [`50-Project_50-Days`](https://github.com/asishgeorge/50Projects50Days/blo
 
     Yoo buddies, this is not actully fully my prooject, the base was base on 50-Project_50-Days as mentioned.
 
-    So, technically this is a modified fork.`
+    So, technically this is a modified fork.
+    
+    On the next build/project the television service very well be added.
+    
 
 
 <hr>
