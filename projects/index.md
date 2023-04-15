@@ -6,7 +6,7 @@
 
 ## The following are my works:
 
-<u> Movie streamer project [beta] </u>
+<u> !Movie! streamer project [Final] </u>
 
 URL : [ StreamTEAX-2 ](/projects/streamteax2/)
 
