@@ -8,6 +8,19 @@
 
 <u> Movie streamer project [beta] </u>
 
+URL : [ StreamTEAX-2 ](/projects/streamteax2/)
+
+Base: [`50-Project_50-Days`](https://github.com/asishgeorge/50Projects50Days/blob/master/Day17-MovieApp/script.js)
+
+    Yoo buddies, this is not actully fully my prooject, the base was base on 50-Project_50-Days as mentioned.
+
+    So, technically this is a modified fork.`
+
+
+<hr>
+
+<u> Movie streamer project [beta] </u>
+
 URL : [ StreamTEAX ](/projects/streamteax/)
 
     This project is based on html & js, for the 
